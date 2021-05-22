@@ -19,6 +19,8 @@ $ idg -f ulid
 
 See [Releases](releases)
 
+or
+
 ```
 go install github.com/maruware/idg@latest
 ```
