@@ -17,7 +17,7 @@ $ idg -f ulid
 
 ## Install
 
-See [Releases](releases)
+See [Releases](/releases)
 
 or
 
